@@ -1,6 +1,6 @@
 # 📚 Web Scraping - Books to Scrape (Categoria: Clássicos)
 
- Este projeto realiza a extração de dados da seção "Classics" do site Books to Scrape, utilizando Python e as bibliotecas ~~BeautifulSoup~~, ~~Requests~~ e ~~Pandas~~.
+ Este projeto realiza a extração de dados da seção "Classics" do site Books to Scrape, utilizando Python e as bibliotecas BeautifulSoup, Requests e Pandas.
 
 ## 🔍 Objetivo
 
@@ -12,7 +12,7 @@ Coletar informações dos livros da categoria Clássicos, incluindo:
 
 * Preço
 
-Esses dados são organizados em um ~~DataFrame~~ e ordenados pela avaliação dos livros.
+Esses dados são organizados em um DataFrame e ordenados pela avaliação dos livros.
 
 ## 🧰 Tecnologias Utilizadas
 
